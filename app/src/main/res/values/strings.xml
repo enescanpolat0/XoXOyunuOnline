@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XoXOyunuOnline</string>
+    <string name="xox_online">XOX ONLINE</string>
+    <string name="kullanici_adinizi_giriniz">Kullanici Adinizi Giriniz</string>
+    <string name="oyunu_baslat">OYUNU BASLAT</string>
+    <string name="oyuncu_2">Oyuncu 2</string>
+    <string name="it_is_draw">It is draw</string>
+    <string name="start_new_match">Start New Match</string>
+</resources>

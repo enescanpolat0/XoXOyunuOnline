@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459719197999",
+    "project_id": "xoxoyunuonline",
+    "storage_bucket": "xoxoyunuonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459719197999:android:cdf18562cf3cc84e724dda",
+        "android_client_info": {
+          "package_name": "com.enescanpolat.xoxoyunuonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQujC77NYxsu9oP6owVKhJLLw56l8YlXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
